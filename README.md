@@ -3,13 +3,9 @@
 ## Group Members
 - Ndede, Migot
 
-### Introduction
+### ### The Highlights
 
-We are going to create a website to highlight your work in this class!  And hopefully / potentially highlight your work throughout your time as a student and hopefully / potentially throughout your career!  
-
-
-### The Highlights
-We are going to create a website to highlight our work in this class!  Hopefully / potentially highlight your work throughout your time as a student and hopefully / potentially throughout your career!  
+We're going to create a website to highlight our work in this Data Science class!  Hopefully / potentially highlight the work throughout our time as a student and hopefully / potentially throughout our career!   
 
 
 ### Activity Three: Create a Welcome Tab  
