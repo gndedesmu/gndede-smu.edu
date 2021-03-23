@@ -1,9 +1,6 @@
 # MSDS 6306: Doing Data Science - Case Study 01
 
-## Group Members
-- Ndede, Migot
-
-### ### The Highlights
+### The Highlights
 
 We're going to create a website to highlight our work in this Data Science class!  Hopefully / potentially highlight the work throughout our time as a student and hopefully / potentially throughout our career!   
 
